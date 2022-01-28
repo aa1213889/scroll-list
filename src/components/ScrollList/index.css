@@ -1,0 +1,9 @@
+.scroll-list-container {
+    text-align: center;
+    overflow-y: hidden;
+}
+
+.scroll-list-container .item {
+    padding: 15px 0;
+    border-bottom: 1px solid #ccc;
+}
